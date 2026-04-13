@@ -79,10 +79,10 @@ print(df.head())
 | map.enterprises      | available | $47.98    | —             | 78             | 42     | 3      | namecheap                                   |
 | sam.enterprises      | resell    | —         | —             | 90             | 57     | 3      | GoDaddy.com, LLC                            |
 | pop.enterprises      | premium   | $500      | $500          | 82             | 43     | 3      | name.com                                    |
-| order.enterprises    | available | $5.99     | $50.99        | 78             | 41     | 5      | name.com                                    |
+| skill.enterprises    | available | $47.98    | —             | 120            | 40     | 5      | namecheap                                   |
 | data.enterprises     | resell    | —         | —             | 70             | 56     | 4      | Porkbun LLC                                 |
 | property.enterprises | premium   | $260      | $260          | 90             | 39     | 8      | namecheap                                   |
-| content.enterprises  | available | $5.99     | $50.99        | 138            | 40     | 7      | name.com                                    |
+| water.enterprises    | available | $47.98    | —             | 108            | 40     | 5      | namecheap                                   |
 | book.enterprises     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
