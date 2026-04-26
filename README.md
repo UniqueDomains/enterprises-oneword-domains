@@ -1,22 +1,22 @@
-# Available .ENTERPRISES One-Word Domains (9,065)
+# Available .ENTERPRISES One-Word Domains (11,425)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C067%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C065%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C425%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .enterprises one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .enterprises one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,425 domains** on the canonical page below.
 
-**Public extract:** 9,067 rows · **Live catalog:** 9,065 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,425 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ENTERPRISES one-word 
 
 ### Files
 
-- `enterprises.csv` — public CSV extract (9,067 rows)
-- `enterprises.json` — public JSON extract (9,067 rows)
+- `enterprises.csv` — public CSV extract (1,000 rows)
+- `enterprises.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| snap.enterprises     | available | $5.99     | $50.99        | 90             | 46     | 4      | name.com                                    |
-| just.enterprises     | resell    | $5.99     | —             | 90             | 48     | 4      | Sav.com, LLC                                |
-| game.enterprises     | premium   | $500      | $500          | 120            | 50     | 4      | name.com                                    |
-| event.enterprises    | available | $47.98    | —             | 96             | 44     | 5      | namecheap                                   |
-| domain.enterprises   | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
-| travel.enterprises   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                   |
-| nice.enterprises     | available | $5.99     | $50.99        | 86             | 44     | 4      | name.com                                    |
-| pay.enterprises      | resell    | —         | —             | 84             | 60     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| all.enterprises      | premium   | $250      | $250          | 88             | 48     | 3      | name.com                                    |
-| track.enterprises    | available | $5.99     | $50.99        | 94             | 42     | 5      | name.com                                    |
-| the.enterprises      | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.                             |
-| creative.enterprises | premium   | $500      | $500          | 92             | 45     | 8      | name.com                                    |
-| map.enterprises      | available | $47.98    | —             | 78             | 42     | 3      | namecheap                                   |
-| sam.enterprises      | resell    | —         | —             | 90             | 57     | 3      | GoDaddy.com, LLC                            |
-| pop.enterprises      | premium   | $500      | $500          | 82             | 43     | 3      | name.com                                    |
-| skill.enterprises    | available | $47.98    | —             | 120            | 40     | 5      | namecheap                                   |
-| data.enterprises     | resell    | —         | —             | 70             | 56     | 4      | Porkbun LLC                                 |
-| property.enterprises | premium   | $260      | $260          | 90             | 39     | 8      | namecheap                                   |
-| water.enterprises    | available | $47.98    | —             | 108            | 40     | 5      | namecheap                                   |
-| book.enterprises     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.                             |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Tools.enterprises        | available | $47.98    | —             | 56             | 40     | 5      | namecheap   |
+| aliens.enterprises       | resell    | —         | —             | 56             | 35     | 6      | Dynadot Inc |
+| jobs.enterprises         | premium   | $250      | —             | 79             | 42     | 4      | name.com    |
+| lets.enterprises         | available | $5.99     | —             | 77             | 39     | 4      | name.com    |
+| justin.enterprises       | available | $5.99     | —             | 58             | 38     | 7      | name.com    |
+| ideas.enterprises        | available | $5.99     | —             | 62             | 37     | 5      | name.com    |
+| stories.enterprises      | available | $5.99     | —             | 58             | 36     | 7      | name.com    |
+| tokens.enterprises       | available | $5.99     | —             | 51             | 36     | 6      | name.com    |
+| William.enterprises      | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
+| videos.enterprises       | available | $5.99     | —             | 52             | 30     | 6      | name.com    |
+| SanDiego.enterprises     | available | $5.99     | —             | 74             | 29     | 9      | name.com    |
+| heroes.enterprises       | available | $5.99     | —             | 68             | 29     | 6      | name.com    |
+| commonground.enterprises | available | $5.99     | —             | 74             | 28     | 13     | name.com    |
+| forms.enterprises        | available | $5.99     | —             | 54             | 28     | 5      | name.com    |
+| pages.enterprises        | available | $5.99     | —             | 52             | 28     | 5      | name.com    |
+| backyard.enterprises     | available | $5.99     | —             | 80             | 27     | 9      | name.com    |
+| bees.enterprises         | available | $5.99     | —             | 54             | 27     | 4      | name.com    |
+| tips.enterprises         | available | $5.99     | —             | 80             | 26     | 4      | name.com    |
+| trades.enterprises       | available | $5.99     | —             | 71             | 26     | 6      | name.com    |
+| traders.enterprises      | available | $5.99     | —             | 60             | 26     | 7      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,067-row public sample | 9,065 live domains                               |
+| 1,000-row public sample | 11,425 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
