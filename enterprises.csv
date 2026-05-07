@@ -982,6 +982,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54ccc1cd-c314-40e1-836b-162dc833f773,singleout.enterprises,available,5.99,,72,1,10,name.com,,
 54e5ecd2-5008-4aba-aead-368fc36e7954,usualoffice.enterprises,available,5.99,,57,0,12,name.com,,
 54f03371-7aa2-42ff-90c0-3b86ca8f57b8,boilingpoint.enterprises,available,5.99,,60,3,13,name.com,,
+550c21a8-e9a4-4a7d-ae4b-baa311d3cfea,zest.enterprises,premium,,,83,31,4,,,
 5522a060-5af5-460a-b41c-41a45ee6e666,divinejustice.enterprises,available,5.99,,49,2,14,name.com,,
 55281fa1-c940-4e78-92f5-72d6466a2c3b,tothe.enterprises,available,5.99,,54,7,6,name.com,,
 555f1b15-e2b2-4fc4-a7e4-ebd8a596e47f,goberserk.enterprises,available,5.99,,68,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56356613-5610-4ef8-b99d-40ee8e96524e,practitioners.enterprises,available,5.99,,48,5,13,name.com,,
 5638cbab-a9e1-491b-8e34-c11dc3281ec4,stuffyou.enterprises,available,5.99,,44,1,9,name.com,,
 564124e9-5bfe-40e4-83d1-44afe65c42ba,gingerbreadcookie.enterprises,available,5.99,,52,1,18,name.com,,
-565678d9-9b51-4d33-8dd6-e25392273288,keypresses.enterprises,available,5.99,,54,0,11,name.com,,

@@ -68,6 +68,7 @@ print(df.head())
 | aliens.enterprises       | resell    | —         | —             | 56             | 35     | 6      | Dynadot Inc |
 | jobs.enterprises         | premium   | $250      | —             | 79             | 42     | 4      | name.com    |
 | ideas.enterprises        | available | $5.99     | —             | 62             | 37     | 5      | name.com    |
+| zest.enterprises         | premium   | —         | —             | 83             | 31     | 4      | —           |
 | stories.enterprises      | available | $5.99     | —             | 58             | 36     | 7      | name.com    |
 | tokens.enterprises       | available | $5.99     | —             | 51             | 36     | 6      | name.com    |
 | William.enterprises      | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
@@ -83,7 +84,6 @@ print(df.head())
 | doctors.enterprises      | available | $5.99     | —             | 56             | 26     | 7      | name.com    |
 | Keith.enterprises        | available | $47.98    | —             | 66             | 25     | 5      | namecheap   |
 | chem.enterprises         | available | $5.99     | —             | 74             | 24     | 4      | name.com    |
-| reports.enterprises      | available | $5.99     | —             | 58             | 24     | 7      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
