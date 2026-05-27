@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .enterprises one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,033 domains · **Median ask:** $10.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | forms.enterprises        | available | $5.99     | —             | 54             | 28     | 5      | name.com    |
 | pages.enterprises        | available | $5.99     | —             | 52             | 28     | 5      | name.com    |
 | tips.enterprises         | available | $5.99     | —             | 80             | 26     | 4      | name.com    |
-| traders.enterprises      | available | $5.99     | —             | 60             | 26     | 7      | name.com    |
 | doctors.enterprises      | available | $5.99     | —             | 56             | 26     | 7      | name.com    |
 | Keith.enterprises        | available | $47.98    | —             | 66             | 25     | 5      | namecheap   |
+| traders.enterprises      | available | $5.99     | —             | 60             | 25     | 7      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
