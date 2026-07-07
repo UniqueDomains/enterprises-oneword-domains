@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .enterprises one-word domai
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,033 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,033 domains · **Median ask:** $10.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,033 domains · **Median ask:** $8.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/enterprises`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/enterprises`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ENTERPRISES one-word 
 
 ### Files
 
-- `enterprises.csv` — public CSV extract (1,000 rows)
-- `enterprises.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `enterprises.csv`, public CSV extract (1,000 rows)
+- `enterprises.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Tools.enterprises        | available | $47.98    | —             | 56             | 40     | 5      | namecheap   |
-| aliens.enterprises       | resell    | —         | —             | 56             | 35     | 6      | Dynadot Inc |
-| jobs.enterprises         | premium   | $250      | —             | 79             | 42     | 4      | name.com    |
-| ideas.enterprises        | available | $5.99     | —             | 62             | 36     | 5      | name.com    |
-| zest.enterprises         | premium   | —         | —             | 83             | 31     | 4      | —           |
-| stories.enterprises      | available | $5.99     | —             | 58             | 36     | 7      | name.com    |
-| mantra.enterprises       | premium   | —         | —             | 80             | 27     | 6      | —           |
-| tokens.enterprises       | available | $5.99     | —             | 51             | 36     | 6      | name.com    |
-| William.enterprises      | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
-| slots.enterprises        | available | $5.99     | —             | 49             | 31     | 5      | name.com    |
-| rewards.enterprises      | available | $5.99     | —             | 62             | 30     | 7      | name.com    |
-| videos.enterprises       | available | $5.99     | —             | 52             | 30     | 6      | name.com    |
-| heroes.enterprises       | available | $5.99     | —             | 68             | 29     | 6      | name.com    |
-| commonground.enterprises | available | $5.99     | —             | 74             | 28     | 13     | name.com    |
-| forms.enterprises        | available | $5.99     | —             | 54             | 28     | 5      | name.com    |
-| pages.enterprises        | available | $5.99     | —             | 52             | 28     | 5      | name.com    |
-| tips.enterprises         | available | $5.99     | —             | 80             | 26     | 4      | name.com    |
-| doctors.enterprises      | available | $5.99     | —             | 56             | 26     | 7      | name.com    |
-| Keith.enterprises        | available | $47.98    | —             | 66             | 25     | 5      | namecheap   |
-| traders.enterprises      | available | $5.99     | —             | 60             | 25     | 7      | name.com    |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| correct.enterprises | available | $5.99     | $50.99        | high           | low    | 7      | name.com                                                           |
+| off.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| pure.enterprises    | available | $5.99     | —             | high           | medium | 4      | name.com                                                           |
+| Ann.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| sea.enterprises     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
+| all.enterprises     | premium   | $250      | $250          | high           | medium | 3      | name.com                                                           |
+| bro.enterprises     | available | $5.99     | —             | medium         | low    | 3      | name.com                                                           |
+| care.enterprises    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
+| net.enterprises     | premium   | $500      | —             | high           | medium | 3      | name.com                                                           |
+| btw.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| keen.enterprises    | resell    | —         | —             | medium         | low    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| news.enterprises    | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                           |
+| des.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| that.enterprises    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
+| movie.enterprises   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                           |
+| fog.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| happy.enterprises   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                                        |
+| gas.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| noble.enterprises   | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC                                                       |
+| gym.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .enterprises extension. The set includes dictionary terms, abstract words, descriptive words, and a few names that may carry stronger trademark sensitivity, such as Barbiepink.enterprises. For founders, the main question is whether a word is clear, memorable, and credible with the longer .enterprises ending. For investors, the key is selectivity: this extension is niche, so the word itself must do most of the work. When comparing these domains, focus on linguistic clarity, commercial relevance, and whether the exact word feels natural before .enterprises. Pricing is relatively uniform here based on the median ask, so quality differences matter more than headline price.
+This list of .enterprises domain names spans single words, short phrases, and industry-style terms such as half.enterprises, appreciation.enterprises, and christmas.enterprises. With a median asking price near $8, many of these domains are inexpensive to acquire outright, making the .enterprises extension approachable for both quick evaluation and long-term ownership. When comparing these domains, look at word length, spelling simplicity, and renewal cost alongside how the term reads for a business or corporate brand. The .enterprises string signals scale and enterprise positioning, which can suit service firms, consultancies, and B2B ventures looking for a distinct, ownable name.
 
-- One-word .enterprises domains only
-- Median ask is 10.12 across this selection
-- Best fits are clear, commercial, literal words
-- Check trademark exposure on branded-looking terms
+- Median asking price near $8 across 12,033 .enterprises domains
+- Mix of single words and short phrases like half or okay
+- Enterprise-style TLD fits B2B, consulting, and corporate brands
+- Compare spelling, length, and renewal cost before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
