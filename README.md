@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .enterprises one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,124 domains · **Median ask:** $7.49 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,8 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
 | correct.enterprises | available | $5.99     | $50.99        | high           | low    | 7      | name.com                                                           |
+| off.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| pure.enterprises    | available | $5.99     | —             | high           | medium | 4      | name.com                                                           |
 | Ann.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 | sea.enterprises     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
 | all.enterprises     | premium   | $250      | $250          | high           | medium | 3      | name.com                                                           |
@@ -82,8 +84,6 @@ print(df.head())
 | des.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 | galaxy.enterprises  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
 | fog.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
-| summit.enterprises  | resell    | —         | —             | medium         | medium | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| gas.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
