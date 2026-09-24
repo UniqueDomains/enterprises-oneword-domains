@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .enterprises one-word domai
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,807 domains · **Median ask:** $8.60 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| pure.enterprises       | available | $5.99     | —             | high           | medium | 4      | name.com                                                           |
 | ann.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 | sea.enterprises        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
 | all.enterprises        | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                           |
@@ -72,7 +73,7 @@ print(df.head())
 | net.enterprises        | premium   | $500      | —             | high           | medium | 3      | name.com                                                           |
 | bro.enterprises        | available | $5.99     | —             | medium         | low    | 3      | name.com                                                           |
 | that.enterprises       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| news.enterprises       | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                           |
+| news.enterprises       | premium   | $260      | $260          | medium         | low    | 4      | namecheap                                                          |
 | btw.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 | galaxy.enterprises     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
 | movie.enterprises      | premium   | $128.70   | $128.70       | medium         | low    | 5      | namecheap                                                          |
@@ -83,7 +84,6 @@ print(df.head())
 | fog.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 | technology.enterprises | resell    | —         | —             | medium         | low    | 10     | Dynadot Inc                                                        |
 | gas.enterprises        | available | $11.49    | $35.99        | low            | low    | 3      | namesilo                                                           |
-| gym.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
