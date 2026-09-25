@@ -1,10 +1,10 @@
-# Available .ENTERPRISES One-Word Domains (30,807)
+# Available .ENTERPRISES One-Word Domains (31,789)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C807%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C789%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .enterprises one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,807 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,789 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,807 domains · **Median ask:** $8.60 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 31,789 domains · **Median ask:** $8.71 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| pure.enterprises       | available | $5.99     | —             | high           | medium | 4      | name.com                                                           |
-| ann.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
-| sea.enterprises        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
-| all.enterprises        | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                           |
-| bay.enterprises        | available | $5.99     | $50.99        | low            | low    | 3      | name.com                                                           |
-| care.enterprises       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
-| net.enterprises        | premium   | $500      | —             | high           | medium | 3      | name.com                                                           |
-| bro.enterprises        | available | $5.99     | —             | medium         | low    | 3      | name.com                                                           |
-| that.enterprises       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| news.enterprises       | premium   | $260      | $260          | medium         | low    | 4      | namecheap                                                          |
-| btw.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
-| galaxy.enterprises     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
-| movie.enterprises      | premium   | $128.70   | $128.70       | medium         | low    | 5      | namecheap                                                          |
-| bum.enterprises        | available | $5.99     | $50.99        | low            | low    | 3      | name.com                                                           |
-| summit.enterprises     | resell    | —         | —             | medium         | medium | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| des.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
-| curiosity.enterprises  | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                                                        |
-| fog.enterprises        | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
-| technology.enterprises | resell    | —         | —             | medium         | low    | 10     | Dynadot Inc                                                        |
-| gas.enterprises        | available | $11.49    | $35.99        | low            | low    | 3      | namesilo                                                           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| ann.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| sea.enterprises     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
+| net.enterprises     | premium   | $500      | —             | high           | medium | 3      | name.com                                                           |
+| aug.enterprises     | available | $5.99     | $50.99        | high           | low    | 3      | name.com                                                           |
+| care.enterprises    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
+| sex.enterprises     | premium   | $500      | —             | high           | medium | 3      | name.com                                                           |
+| azo.enterprises     | available | $5.99     | $50.99        | high           | low    | 3      | name.com                                                           |
+| city.enterprises    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                                       |
+| top.enterprises     | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                           |
+| bae.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| that.enterprises    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
+| bay.enterprises     | available | $5.99     | $50.99        | high           | low    | 3      | name.com                                                           |
+| work.enterprises    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 49                                                  |
+| bro.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| galaxy.enterprises  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                                        |
+| btw.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
+| summit.enterprises  | resell    | —         | —             | high           | medium | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| bum.enterprises     | available | $5.99     | $50.99        | high           | low    | 3      | name.com                                                           |
+| premier.enterprises | resell    | —         | —             | high           | low    | 7      | Mesh Digital Limited                                               |
+| but.enterprises     | available | $5.99     | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,807 live domains                        |
+| 1,000-row public sample | 31,789 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
