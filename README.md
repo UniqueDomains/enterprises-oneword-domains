@@ -1,10 +1,10 @@
-# Available .ENTERPRISES One-Word Domains (25,286)
+# Available .ENTERPRISES One-Word Domains (27,356)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C286%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C356%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .enterprises one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,286 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,356 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,286 domains · **Median ask:** $9.97 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 27,356 domains · **Median ask:** $10.25 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/enterprises`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | viva.enterprises   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
 | axe.enterprises    | available | $11.49    | $35.99        | high           | low    | 3      | namesilo         |
 | robot.enterprises  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
-| cfs.enterprises    | available | $3.50     | $29.01        | high           | low    | 3      | dynadot          |
+| cbi.enterprises    | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare       |
 | broker.enterprises | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.  |
-| chf.enterprises    | available | $3.50     | $29.01        | medium         | low    | 3      | dynadot          |
+| cfs.enterprises    | available | $3.50     | $29.01        | high           | low    | 3      | dynadot          |
 | create.enterprises | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| chf.enterprises    | available | $3.50     | $29.01        | medium         | low    | 3      | dynadot          |
+| insane.enterprises | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
 | crt.enterprises    | available | $11.49    | $35.99        | high           | low    | 3      | namesilo         |
-| garden.enterprises | resell    | —         | —             | high           | low    | 6      | Dynadot Inc      |
-| len.enterprises    | available | $11.49    | $35.99        | medium         | low    | 3      | namesilo         |
-| insane.enterprises | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc.  |
-| mpa.enterprises    | available | $8.48     | $28.15        | medium         | low    | 3      | spaceship        |
 | powell.enterprises | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| dre.enterprises    | available | $8.48     | $28.15        | high           | low    | 3      | spaceship        |
+| gaa.enterprises    | available | $11.49    | $35.99        | high           | low    | 3      | namesilo         |
+| len.enterprises    | available | $11.49    | $35.99        | medium         | low    | 3      | namesilo         |
+| mes.enterprises    | available | $11.49    | $35.99        | high           | low    | 3      | namesilo         |
+| mpa.enterprises    | available | $8.48     | $28.15        | medium         | low    | 3      | spaceship        |
 | nih.enterprises    | available | $11       | —             | high           | low    | 3      | unstoppable      |
-| nur.enterprises    | available | $11       | —             | medium         | low    | 3      | unstoppable      |
-| pci.enterprises    | available | $11       | —             | high           | low    | 3      | unstoppable      |
-| psa.enterprises    | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,286 live domains                        |
+| 1,000-row public sample | 27,356 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ENTERPRISES One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
